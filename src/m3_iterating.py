@@ -334,7 +334,7 @@ def draw_circles(window, points, radius, color):
         circle.attach_to(window)
     window.render()
     # ------------------------------------------------------------------
-    # DONE: 6. Implement and test this function
+    # DONE: 6. Implement and test this function.
     #          Tests have been written for you (above).
     # ------------------------------------------------------------------
 
